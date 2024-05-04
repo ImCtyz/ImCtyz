@@ -1,2 +1,4 @@
 
-![Иллюстрация к проекту](https://github.com/ImCtyz/screenshots/blob/master/dance.gif)
+<center>
+    <img src="https://github.com/ImCtyz/screenshots/blob/master/dance.gif" alt="гиф">
+</center>
